@@ -1,0 +1,15 @@
+<package>
+  <name>sdformat</name>
+  <version>1.4.11</version>
+  <description>
+    ROS wrapper for sdformat.
+  </description>
+  <maintainer email="foo@foo.com">Ivana Bildbotz</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>cmake</buildtool_depend>
+
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
