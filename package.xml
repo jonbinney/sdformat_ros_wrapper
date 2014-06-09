@@ -8,6 +8,7 @@
   <license>BSD</license>
 
   <buildtool_depend>cmake</buildtool_depend>
+  <build_depend>tinyxml</build_depend>
 
   <export>
     <build_type>cmake</build_type>
